@@ -25,7 +25,10 @@ Data preparation involves several key steps:
 Missing data occurs commonly in many data applications. Especially wearable sensor devices encounter measurement errors resulting in missing data. Although pandas can handle missing data, for instance, to exclude missing data in the descriptive analysis, we might decide to reshape our data to improve quality. We might consider excluding certain rows, columns, or decide to impute our data if we take an argumentative approach.
 
 ## Objectives
-We will work with sensor data of a project. The data is timeseries related but a lot of sensor errors occurred. First, we inspect the quality of the data. Then, we will work with imputation, interpolation, and smoothing techniques to overcome this issue of error readings. Finally, we plot the data. Visualization is a method to translate data into information.
+We will work with sensor data of a project. The data is timeseries related but a lot of sensor errors occurred.
+- **First, we inspect the quality of the data.**
+- **Then, we will work with imputation, interpolation, and smoothing techniques to overcome this issue of error readings.**
+- **Finally, we plot the data. Visualization is a method to translate data into information.**
 
 ## Keywords
 **data loading, data inspection, data exploration, data cleaning, impute data, missing data, timeseries, pandas, visualization, interactive plots, overflow/underflow error**

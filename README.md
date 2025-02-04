@@ -10,7 +10,7 @@ Data preparation involves several key steps:
 - **Reformatting characters into numerical values**: Converting categorical or text data into numerical representations.
 - **Combining data from multiple sources**: Merging datasets to enrich the available information.
 
-`Cleaning and manipulating data into a structured form is crucial for effective analysis and modeling.`
+`**Cleaning and manipulating data into a structured form is crucial for effective analysis and modeling.**`
 
 - **Data wrangling** with pandas, NumPy, yaml.
 - **Data visualization** matplotlib, Bokeh.

@@ -1,4 +1,5 @@
 # Week 01 Assignment: Epileptic Seizure Data Preparation
+Exploring real-world problems. First steps to approach large-scale data and developing a rationale.
 
 ## Overview
 As a Data Scientist, you often have lots of data at your disposal. Unfortunately, data from real-life cases is often not nicely structured. We need to manipulate the unstructured and/or messy data into a structured or clean form.

@@ -1,5 +1,3 @@
-DS_101: Exploring real-world problems. First steps to approach large-scale data and developing a rationale.
-
 # Week 01 Assignment: Epileptic Seizure Data Preparation
 
 ## Overview

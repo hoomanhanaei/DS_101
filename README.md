@@ -1,4 +1,24 @@
-# Week 01 Assignment: Epileptic Seizure Data Preparation
+# Data Science: A Guided Journey
+
+This project is a curated collection of data science assignments, restructured and revisited with a deeper understanding. The goal is not just to redo old assignments but to transform them into well-documented resources that provide a structured learning path for aspiring data scientists.
+
+## Scope
+Data science is not just about knowing algorithms but about developing a strong rationale—understanding why we choose specific techniques, how to handle messy real-world data, and how to derive meaningful insights. This repository is designed to:
+
+- **Revisit fundamental concepts with a fresh perspective**
+- **Provide structured solutions with explanations**
+- **Offer well-organized code for beginners to learn from**
+- **Share best practices for handling unstructured and messy data**
+
+---
+
+### **Data Preparation & Cleaning**  
+- [Week 01: Epileptic Seizure Data Preparation](#week-01-epileptic-seizure-data-preparation)  
+- [Week 02: Glucose Level Data](#week-02-glucose-level-data)
+
+
+# Week 01 : Epileptic Seizure Data Preparation
+
 
 ## Overview
 As a Data Scientist, you often have lots of data at your disposal. Unfortunately, data from real-life cases is often not nicely structured. We need to manipulate the unstructured and/or messy data into a structured or clean form.
@@ -19,7 +39,7 @@ Data preparation involves several key steps:
 
 ---
 
-# Week 02 Assignment: Glucose Level Data
+# Week 02 : Glucose Level Data
 
 ## Overview
 Missing data occurs commonly in many data applications. Especially wearable sensor devices encounter measurement errors resulting in missing data. Although pandas can handle missing data, for instance, to exclude missing data in the descriptive analysis, we might decide to reshape our data to improve quality. We might consider excluding certain rows, columns, or decide to impute our data if we take an argumentative approach.

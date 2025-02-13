@@ -13,7 +13,7 @@ Data science is not just about knowing algorithms but about developing a strong 
 ---
 
 ### **Data Preparation & Cleaning**  
-- [Week 01: Epileptic Seizure Data Preparation](#week-01-epileptic-seizure-data-preparation)  
+- [Week 01: Epileptic Seizure Data Preparation](#Week 01 : Epileptic Seizure Data Preparation)  
 - [Week 02: Glucose Level Data](#week-02-glucose-level-data)
 
 

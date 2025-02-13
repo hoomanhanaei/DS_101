@@ -13,13 +13,14 @@ Data science is not just about knowing algorithms but about developing a strong 
 ---
 
 ### Content:
-- [DS_101 Epileptic Seizure](#week-01-epileptic-seizure-data-preparation)  
-- [DS_102 Glucose Levels](#week-02-glucose-level-data)
+- [DS_101 Epileptic Seizure](#week-01)  
+- [DS_102 Glucose Levels](#week-02)
 
 `*More modules will be added as the repository evolves.* `
 
 ---
-## Week 01 : Epileptic Seizure Data Preparation
+## Week 01:
+## **Epileptic Seizure Data Preparation**
 
 ### Overview
 As a Data Scientist, you often have lots of data at your disposal. Unfortunately, data from real-life cases is often not nicely structured. We need to manipulate the unstructured and/or messy data into a structured or clean form.
@@ -40,7 +41,8 @@ Data preparation involves several key steps:
 
 ---
 
-## Week 02 : Glucose Level Data
+## Week 02:
+## **Glucose Level Data**
 
 ### Overview
 Missing data occurs commonly in many data applications. Especially wearable sensor devices encounter measurement errors resulting in missing data. Although pandas can handle missing data, for instance, to exclude missing data in the descriptive analysis, we might decide to reshape our data to improve quality. We might consider excluding certain rows, columns, or decide to impute our data if we take an argumentative approach.

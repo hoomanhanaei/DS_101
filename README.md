@@ -12,17 +12,17 @@ Data science is not just about knowing algorithms but about developing a strong 
 
 ---
 
-### **Data Preparation & Cleaning**  
-- [Week 01](#week-01-epileptic-seizure-data-preparation)  
-- [Week 02](#week-02-glucose-level-data)
+### Content:
+- [DS_101 Epileptic Seizure](#week-01-epileptic-seizure-data-preparation)  
+- [DS_102 Glucose Levels](#week-02-glucose-level-data)
 
 `*More modules will be added as the repository evolves.* `
 
-
+---
 ## Week 01 : Epileptic Seizure Data Preparation
 
 
-## Overview
+### Overview
 As a Data Scientist, you often have lots of data at your disposal. Unfortunately, data from real-life cases is often not nicely structured. We need to manipulate the unstructured and/or messy data into a structured or clean form.
 
 ## Objective

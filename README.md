@@ -18,9 +18,8 @@ Data science is not just about knowing algorithms but about developing a strong 
 
 `*More modules will be added as the repository evolves.* `
 
--------
+---
 ## Week 01 : Epileptic Seizure Data Preparation
-
 
 ### Overview
 As a Data Scientist, you often have lots of data at your disposal. Unfortunately, data from real-life cases is often not nicely structured. We need to manipulate the unstructured and/or messy data into a structured or clean form.
@@ -32,7 +31,7 @@ Data preparation involves several key steps:
 - **Reformatting characters into numerical values**: Converting categorical or text data into numerical representations.
 - **Combining data from multiple sources**: Merging datasets to enrich the available information.
 
-**Cleaning and manipulating data into a structured form is crucial for effective analysis and modeling.**
+`$Cleaning and manipulating data into a structured form is crucial for effective analysis and modeling.$**`
 
 ## Keywords
 - **Data wrangling** with pandas, NumPy, yaml.

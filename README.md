@@ -16,6 +16,8 @@ Data science is not just about knowing algorithms but about developing a strong 
 - [Week 01](#week-01-epileptic-seizure-data-preparation)  
 - [Week 02](#week-02-glucose-level-data)
 
+`*More modules will be added as the repository evolves.* `
+
 
 # Week 01 : Epileptic Seizure Data Preparation
 
